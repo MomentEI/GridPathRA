@@ -1,2 +1,2 @@
 # GridPathRA
-Companion code to develop resource adequacy cases to run in Blue Marble Analytic's GridPath platform.
+Companion code to develop resource adequacy cases to run in the Blue Marble Analytics GridPath platform.
